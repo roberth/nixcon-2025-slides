@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="export-svg"
+   width="100%"
+   class="flowchart"
+   style="max-width: 483.4978942871094px;"
+   viewBox="-76.15567016601562 -58.49738311767578 483.4978942871094 286.8866271972656"
+   role="graphics-document document"
+   aria-roledescription="flowchart-v2"
+   version="1.1"
+   sodipodi:docname="layers-before.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <sodipodi:namedview
+     id="namedview32"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="2.1882205"
+     inkscape:cx="241.74895"
+     inkscape:cy="143.49559"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="export-svg" />
+  <xhtml:style>@import url(&quot;https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css&quot;); p {margin: 0;}</xhtml:style>
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke-width:9.40724;stroke-linejoin:round"
+     id="rect42"
+     width="483.49789"
+     height="286.88663"
+     x="-76.15567"
+     y="-58.497383" />
+  <style
+     id="style1">#export-svg{font-family:arial,sans-serif;font-size:14px;fill:#333;}@keyframes edge-animation-frame{from{stroke-dashoffset:0;}}@keyframes dash{to{stroke-dashoffset:0;}}#export-svg .edge-animation-slow{stroke-dasharray:9,5!important;stroke-dashoffset:900;animation:dash 50s linear infinite;stroke-linecap:round;}#export-svg .edge-animation-fast{stroke-dasharray:9,5!important;stroke-dashoffset:900;animation:dash 20s linear infinite;stroke-linecap:round;}#export-svg .error-icon{fill:#ffffff;}#export-svg .error-text{fill:#000000;stroke:#000000;}#export-svg .edge-thickness-normal{stroke-width:2px;}#export-svg .edge-thickness-thick{stroke-width:3.5px;}#export-svg .edge-pattern-solid{stroke-dasharray:0;}#export-svg .edge-thickness-invisible{stroke-width:0;fill:none;}#export-svg .edge-pattern-dashed{stroke-dasharray:3;}#export-svg .edge-pattern-dotted{stroke-dasharray:2;}#export-svg .marker{fill:#000000;stroke:#000000;}#export-svg .marker.cross{stroke:#000000;}#export-svg svg{font-family:arial,sans-serif;font-size:14px;}#export-svg p{margin:0;}#export-svg .label{font-family:arial,sans-serif;color:#333;}#export-svg .cluster-label text{fill:#000000;}#export-svg .cluster-label span{color:#000000;}#export-svg .cluster-label span p{background-color:transparent;}#export-svg .label text,#export-svg span{fill:#333;color:#333;}#export-svg .node rect,#export-svg .node circle,#export-svg .node ellipse,#export-svg .node polygon,#export-svg .node path{fill:#ffffff;stroke:#000000;stroke-width:2px;}#export-svg .rough-node .label text,#export-svg .node .label text,#export-svg .image-shape .label,#export-svg .icon-shape .label{text-anchor:middle;}#export-svg .node .katex path{fill:#000;stroke:#000;stroke-width:1px;}#export-svg .rough-node .label,#export-svg .node .label,#export-svg .image-shape .label,#export-svg .icon-shape .label{text-align:center;}#export-svg .node.clickable{cursor:pointer;}#export-svg .root .anchor path{fill:#000000!important;stroke-width:0;stroke:#000000;}#export-svg .arrowheadPath{fill:#000000;}#export-svg .edgePath .path{stroke:#000000;stroke-width:2px;}#export-svg .flowchart-link{stroke:#000000;fill:none;}#export-svg .edgeLabel{background-color:hsl(-120, 0%, 80%);text-align:center;}#export-svg .edgeLabel p{background-color:hsl(-120, 0%, 80%);}#export-svg .edgeLabel rect{opacity:0.5;background-color:hsl(-120, 0%, 80%);fill:hsl(-120, 0%, 80%);}#export-svg .labelBkg{background-color:rgba(204, 204, 204, 0.5);}#export-svg .cluster rect{fill:#ffffff;stroke:hsl(0, 0%, 90%);stroke-width:2px;}#export-svg .cluster text{fill:#000000;}#export-svg .cluster span{color:#000000;}#export-svg div.mermaidTooltip{position:absolute;text-align:center;max-width:200px;padding:2px;font-family:arial,sans-serif;font-size:12px;background:#ffffff;border:1px solid hsl(0, 0%, 90%);border-radius:2px;pointer-events:none;z-index:100;}#export-svg .flowchartTitleText{text-anchor:middle;font-size:18px;fill:#333;}#export-svg rect.text{fill:none;stroke-width:0;}#export-svg .icon-shape,#export-svg .image-shape{background-color:hsl(-120, 0%, 80%);text-align:center;}#export-svg .icon-shape p,#export-svg .image-shape p{background-color:hsl(-120, 0%, 80%);padding:2px;}#export-svg .icon-shape rect,#export-svg .image-shape rect{opacity:0.5;background-color:hsl(-120, 0%, 80%);fill:hsl(-120, 0%, 80%);}#export-svg .label-icon{display:inline-block;height:1em;overflow:visible;vertical-align:-0.125em;}#export-svg .node .label-icon path{fill:currentColor;stroke:revert;stroke-width:revert;}#export-svg .node .neo-node{stroke:#000000;}#export-svg [data-look=&quot;neo&quot;].node rect,#export-svg [data-look=&quot;neo&quot;].cluster rect,#export-svg [data-look=&quot;neo&quot;].node polygon{stroke:url(#export-svg-gradient);filter:drop-shadow( 0px 1px 2px rgba(0, 0, 0, 0.25));}#export-svg [data-look=&quot;neo&quot;].node path{stroke:url(#export-svg-gradient);stroke-width:2;}#export-svg [data-look=&quot;neo&quot;].node .outer-path{filter:drop-shadow( 0px 1px 2px rgba(0, 0, 0, 0.25));}#export-svg [data-look=&quot;neo&quot;].node .neo-line path{stroke:#000000;filter:none;}#export-svg [data-look=&quot;neo&quot;].node circle{stroke:url(#export-svg-gradient);filter:drop-shadow( 0px 1px 2px rgba(0, 0, 0, 0.25));}#export-svg [data-look=&quot;neo&quot;].node circle .state-start{fill:#000000;}#export-svg [data-look=&quot;neo&quot;].statediagram-cluster rect{fill:#ffffff;stroke:url(#export-svg-gradient);stroke-width:2;}#export-svg [data-look=&quot;neo&quot;].icon-shape .icon{fill:url(#export-svg-gradient);filter:drop-shadow( 0px 1px 2px rgba(0, 0, 0, 0.25));}#export-svg [data-look=&quot;neo&quot;].icon-shape .icon-neo path{stroke:url(#export-svg-gradient);filter:drop-shadow( 0px 1px 2px rgba(0, 0, 0, 0.25));}#export-svg :root{--mermaid-font-family:&quot;trebuchet ms&quot;,verdana,arial,sans-serif;}</style>
+  <marker
+     id="export-svg_flowchart-v2-pointEnd"
+     class="marker flowchart-v2"
+     viewBox="0 0 11.5 14"
+     refX="7.75"
+     refY="7"
+     markerUnits="userSpaceOnUse"
+     markerWidth="10.5"
+     markerHeight="14"
+     orient="auto">
+    <path
+       d="M 0,0 11.5,7 0,14 Z"
+       class="arrowMarkerPath"
+       style="stroke-width:0;stroke-dasharray:1, 0"
+       id="path1" />
+  </marker>
+  <marker
+     id="export-svg_flowchart-v2-pointStart"
+     class="marker flowchart-v2"
+     viewBox="0 0 11.5 14"
+     refX="4"
+     refY="7"
+     markerUnits="userSpaceOnUse"
+     markerWidth="11.5"
+     markerHeight="14"
+     orient="auto">
+    <polygon
+       points="11.5,0 0,7 11.5,14 "
+       class="arrowMarkerPath"
+       style="stroke-width:0;stroke-dasharray:1, 0"
+       id="polygon1" />
+  </marker>
+  <marker
+     id="export-svg_flowchart-v2-pointEnd-margin"
+     class="marker flowchart-v2"
+     viewBox="0 0 11.5 14"
+     refX="11.5"
+     refY="7"
+     markerUnits="userSpaceOnUse"
+     markerWidth="10.5"
+     markerHeight="14"
+     orient="auto">
+    <path
+       d="M 0,0 11.5,7 0,14 Z"
+       class="arrowMarkerPath"
+       style="stroke-width:0;stroke-dasharray:1, 0"
+       id="path2" />
+  </marker>
+  <marker
+     id="export-svg_flowchart-v2-pointStart-margin"
+     class="marker flowchart-v2"
+     viewBox="0 0 11.5 14"
+     refX="1"
+     refY="7"
+     markerUnits="userSpaceOnUse"
+     markerWidth="11.5"
+     markerHeight="14"
+     orient="auto">
+    <polygon
+       points="11.5,0 0,7 11.5,14 "
+       class="arrowMarkerPath"
+       style="stroke-width:0;stroke-dasharray:1, 0"
+       id="polygon2" />
+  </marker>
+  <marker
+     id="export-svg_flowchart-v2-circleEnd"
+     class="marker flowchart-v2"
+     viewBox="0 0 10 10"
+     refY="5"
+     refX="10.75"
+     markerUnits="userSpaceOnUse"
+     markerWidth="14"
+     markerHeight="14"
+     orient="auto">
+    <circle
+       cx="5"
+       cy="5"
+       r="5"
+       class="arrowMarkerPath"
+       style="stroke-width:0;stroke-dasharray:1, 0"
+       id="circle2" />
+  </marker>
+  <marker
+     id="export-svg_flowchart-v2-circleStart"
+     class="marker flowchart-v2"
+     viewBox="0 0 10 10"
+     refX="0"
+     refY="5"
+     markerUnits="userSpaceOnUse"
+     markerWidth="14"
+     markerHeight="14"
+     orient="auto">
+    <circle
+       cx="5"
+       cy="5"
+       r="5"
+       class="arrowMarkerPath"
+       style="stroke-width:0;stroke-dasharray:1, 0"
+       id="circle3" />
+  </marker>
+  <marker
+     id="export-svg_flowchart-v2-circleEnd-margin"
+     class="marker flowchart-v2"
+     viewBox="0 0 10 10"
+     refY="5"
+     refX="12.25"
+     markerUnits="userSpaceOnUse"
+     markerWidth="14"
+     markerHeight="14"
+     orient="auto">
+    <circle
+       cx="5"
+       cy="5"
+       r="5"
+       class="arrowMarkerPath"
+       style="stroke-width:0;stroke-dasharray:1, 0"
+       id="circle4" />
+  </marker>
+  <marker
+     id="export-svg_flowchart-v2-circleStart-margin"
+     class="marker flowchart-v2"
+     viewBox="0 0 10 10"
+     refX="-2"
+     refY="5"
+     markerUnits="userSpaceOnUse"
+     markerWidth="14"
+     markerHeight="14"
+     orient="auto">
+    <circle
+       cx="5"
+       cy="5"
+       r="5"
+       class="arrowMarkerPath"
+       style="stroke-width:0;stroke-dasharray:1, 0"
+       id="circle5" />
+  </marker>
+  <marker
+     id="export-svg_flowchart-v2-crossEnd"
+     class="marker cross flowchart-v2"
+     viewBox="0 0 15 15"
+     refX="17.700001"
+     refY="7.5"
+     markerUnits="userSpaceOnUse"
+     markerWidth="12"
+     markerHeight="12"
+     orient="auto">
+    <path
+       d="M 1,1 14,14 M 1,14 14,1"
+       class="arrowMarkerPath"
+       style="stroke-width:2.5"
+       id="path5" />
+  </marker>
+  <marker
+     id="export-svg_flowchart-v2-crossStart"
+     class="marker cross flowchart-v2"
+     viewBox="0 0 15 15"
+     refX="-3.5"
+     refY="7.5"
+     markerUnits="userSpaceOnUse"
+     markerWidth="12"
+     markerHeight="12"
+     orient="auto">
+    <path
+       d="M 1,1 14,14 M 1,14 14,1"
+       class="arrowMarkerPath"
+       style="stroke-width:2.5;stroke-dasharray:1, 0"
+       id="path6" />
+  </marker>
+  <marker
+     id="export-svg_flowchart-v2-crossEnd-margin"
+     class="marker cross flowchart-v2"
+     viewBox="0 0 15 15"
+     refX="17.700001"
+     refY="7.5"
+     markerUnits="userSpaceOnUse"
+     markerWidth="12"
+     markerHeight="12"
+     orient="auto">
+    <path
+       d="M 1,1 14,14 M 1,14 14,1"
+       class="arrowMarkerPath"
+       style="stroke-width:2.5"
+       id="path7" />
+  </marker>
+  <marker
+     id="export-svg_flowchart-v2-crossStart-margin"
+     class="marker cross flowchart-v2"
+     viewBox="0 0 15 15"
+     refX="-3.5"
+     refY="7.5"
+     markerUnits="userSpaceOnUse"
+     markerWidth="12"
+     markerHeight="12"
+     orient="auto">
+    <path
+       d="M 1,1 14,14 M 1,14 14,1"
+       class="arrowMarkerPath"
+       style="stroke-width:2.5;stroke-dasharray:1, 0"
+       id="path8" />
+  </marker>
+  <g
+     class="node default"
+     id="flowchart-Derivations-1"
+     data-id="Derivations"
+     data-node="true"
+     data-et="node"
+     data-look="neo"
+     transform="translate(316.94383,83.485504)">
+    <rect
+       class="basic label-container"
+       style="stroke:url(#linearGradient34)"
+       data-id="Derivations"
+       x="-80.726242"
+       y="-27.986809"
+       width="161.45248"
+       height="55.973618"
+       stroke="url(#gradient)"
+       id="rect10" />
+    <g
+       class="label"
+       transform="translate(-35.015625,-10.5)"
+       id="g11">
+      <rect
+         id="rect11"
+         style="stroke:url(#linearGradient35)"
+         width="0"
+         height="0"
+         x="0"
+         y="0" />
+      <foreignObject
+         width="70.03125"
+         height="21">
+        <xhtml:div
+           style="display: table-cell; white-space: normal; line-height: 1.5; max-width: 129.452px; text-align: center;">
+          <xhtml:span
+             class="nodeLabel">
+            <xhtml:p>Derivations</xhtml:p>
+          </xhtml:span>
+        </xhtml:div>
+      </foreignObject>
+    </g>
+  </g>
+  <g
+     class="node default"
+     id="flowchart-Sandbox-3"
+     data-id="Sandbox"
+     data-node="true"
+     data-et="node"
+     data-look="neo"
+     transform="translate(316.57797,185.22827)">
+    <rect
+       class="basic label-container"
+       style="stroke:url(#linearGradient36)"
+       data-id="Sandbox"
+       x="-82.764252"
+       y="-28.473614"
+       width="165.5285"
+       height="56.947227"
+       stroke="url(#gradient)"
+       id="rect12" />
+    <g
+       class="label"
+       transform="translate(-57.972656,-10.5)"
+       id="g13">
+      <rect
+         id="rect13"
+         style="stroke:url(#linearGradient37)"
+         width="0"
+         height="0"
+         x="0"
+         y="0" />
+      <foreignObject
+         width="115.9453125"
+         height="21">
+        <xhtml:div
+           style="display: table-cell; white-space: normal; line-height: 1.5; max-width: 133.529px; text-align: center;">
+          <xhtml:span
+             class="nodeLabel">
+            <xhtml:p>Nix sandbox, store</xhtml:p>
+          </xhtml:span>
+        </xhtml:div>
+      </foreignObject>
+    </g>
+  </g>
+  <g
+     class="node default"
+     id="flowchart-Nix-4"
+     data-id="Nix"
+     data-node="true"
+     data-et="node"
+     data-look="neo"
+     transform="translate(12.725269,84.945929)">
+    <rect
+       class="basic label-container"
+       style="stroke:url(#linearGradient38)"
+       data-id="Nix"
+       x="-80.880943"
+       y="-135.44331"
+       width="161.76189"
+       height="270.88663"
+       stroke="url(#gradient)"
+       id="rect14" />
+    <g
+       class="label"
+       transform="translate(-28.808594,-21)"
+       id="g15">
+      <rect
+         id="rect15"
+         style="stroke:url(#linearGradient39)"
+         width="0"
+         height="0"
+         x="0"
+         y="0" />
+      <foreignObject
+         width="57.6171875"
+         height="42">
+        <xhtml:div
+           style="display: table-cell; white-space: normal; line-height: 1.5; max-width: 129.762px; text-align: center;">
+          <xhtml:span
+             class="nodeLabel">
+            <xhtml:p>Nix<xhtml:br />
+language</xhtml:p>
+          </xhtml:span>
+        </xhtml:div>
+      </foreignObject>
+    </g>
+  </g>
+  <path
+     d="m 316.84319,111.47231 v 22.55976 q 0,0.0814 -0.0814,0.0814 v 0 q -0.0814,0 -0.0814,0.0814 v 18.55975"
+     id="L_Derivations_Sandbox_0"
+     class="edge-thickness-normal edge-pattern-solid edge-thickness-normal edge-pattern-solid flowchart-link"
+     style="stroke-dasharray:0, 0, 32.3839, 9;stroke-dashoffset:0"
+     data-edge="true"
+     data-et="edge"
+     data-id="L_Derivations_Sandbox_0"
+     data-points="W3sieCI6MzE2Ljg0MzE5Mzc1NjQ5MDcsInkiOjExMS40NzIzMTI5MjcyNDYxLCJwb3MiOiJiIn0seyJ4IjozMTYuODQzMTkzNzU2NDkwNywieSI6MTM0LjExMzQ4MzQyODk1NTA4fSx7IngiOjMxNi42ODAzNjE1NzAyNjc5LCJ5IjoxMzQuMTEzNDgzNDI4OTU1MDh9LHsieCI6MzE2LjY4MDM2MTU3MDI2NzksInkiOjE1Ni43NTQ2NTM5MzA2NjQwNiwicG9zIjoidCJ9XQ=="
+     marker-end="url(#export-svg_flowchart-v2-pointEnd-margin)" />
+  <path
+     d="m 93.606213,84.557653 h 70.963377 q 0.34231,0 0.34231,-0.342308 v 0 q 0,-0.342308 0.34231,-0.342308 h 66.96338"
+     id="L_Nix_Derivations_0"
+     class="edge-thickness-normal edge-pattern-solid edge-thickness-normal edge-pattern-solid flowchart-link"
+     style="stroke-dasharray:0, 0, 130.038, 9;stroke-dashoffset:0"
+     data-edge="true"
+     data-et="edge"
+     data-id="L_Nix_Derivations_0"
+     data-points="W3sieCI6OTMuNjA2MjEyNjE1OTY2OCwieSI6ODQuNTU3NjUzNDM0MjgxMDUsInBvcyI6InIifSx7IngiOjE2NC45MTE5MDE0NzM5OTkwMiwieSI6ODQuNTU3NjUzNDM0MjgxMDV9LHsieCI6MTY0LjkxMTkwMTQ3Mzk5OTAyLCJ5Ijo4My44NzMwMzY2MzQ2NDYwNn0seyJ4IjoyMzYuMjE3NTkwMzMyMDMxMjUsInkiOjgzLjg3MzAzNjYzNDY0NjA2LCJwb3MiOiJsIn1d"
+     marker-end="url(#export-svg_flowchart-v2-pointEnd-margin)" />
+  
+  <g
+     class="edgeLabel"
+     transform="translate(316.76178,134.11348)"
+     id="g23">
+    <g
+       class="label"
+       data-id="L_Derivations_Sandbox_0"
+       transform="translate(-29.183594,-10.5)"
+       id="g22">
+      <foreignObject
+         width="58.3671875"
+         height="21">
+        <xhtml:div
+           style="display: table-cell; white-space: normal; line-height: 1.5; max-width: 200px; text-align: center;"
+           class="labelBkg">
+          <xhtml:span
+             class="edgeLabel">
+            <xhtml:p>build with</xhtml:p>
+          </xhtml:span>
+        </xhtml:div>
+      </foreignObject>
+    </g>
+  </g>
+  <g
+     class="edgeLabel"
+     transform="translate(164.9119,84.21535)"
+     id="g25">
+    <g
+       class="label"
+       data-id="L_Nix_Derivations_0"
+       transform="translate(-31.910156,-10.5)"
+       id="g24">
+      <foreignObject
+         width="63.8203125"
+         height="21">
+        <xhtml:div
+           style="display: table-cell; white-space: normal; line-height: 1.5; max-width: 200px; text-align: center;"
+           class="labelBkg">
+          <xhtml:span
+             class="edgeLabel">
+            <xhtml:p>instantiate</xhtml:p>
+          </xhtml:span>
+        </xhtml:div>
+      </foreignObject>
+    </g>
+  </g>
+  <g
+     class="edgeLabel"
+     id="g27">
+    <g
+       class="label"
+       data-id="L_n1_Resources_0"
+       id="g26">
+      <foreignObject
+         width="0"
+         height="0">
+        <xhtml:div
+           style="display: table-cell; white-space: normal; line-height: 1.5; max-width: 200px; text-align: center;"
+           class="labelBkg">
+          <xhtml:span
+             class="edgeLabel" />
+        </xhtml:div>
+      </foreignObject>
+    </g>
+  </g>
+  <defs
+     id="defs30">
+    <filter
+       id="drop-shadow"
+       height="130%"
+       width="130%">
+      <feDropShadow
+         dx="4"
+         dy="4"
+         stdDeviation="0"
+         flood-opacity="0.06"
+         flood-color="#000000" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#export-svg-gradient"
+       id="linearGradient34"
+       gradientUnits="userSpaceOnUse"
+       x1="-48.672199"
+       y1="-48.672199"
+       x2="48.672199"
+       y2="-48.672199"
+       gradientTransform="scale(1.6791155,0.59555166)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#export-svg-gradient"
+       id="linearGradient35"
+       gradientUnits="userSpaceOnUse"
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#export-svg-gradient"
+       id="linearGradient36"
+       gradientUnits="userSpaceOnUse"
+       x1="-49.687375"
+       y1="-49.687375"
+       x2="49.687375"
+       y2="-49.687375"
+       gradientTransform="scale(1.6858257,0.59318114)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#export-svg-gradient"
+       id="linearGradient37"
+       gradientUnits="userSpaceOnUse"
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#export-svg-gradient"
+       id="linearGradient38"
+       gradientUnits="userSpaceOnUse"
+       x1="-105.69819"
+       y1="-105.69819"
+       x2="105.69819"
+       y2="-105.69819"
+       gradientTransform="scale(0.77466742,1.2908765)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#export-svg-gradient"
+       id="linearGradient39"
+       gradientUnits="userSpaceOnUse"
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0" />
+  </defs>
+  <defs
+     id="defs31">
+    <filter
+       id="drop-shadow-small"
+       height="150%"
+       width="150%">
+      <feDropShadow
+         dx="2"
+         dy="2"
+         stdDeviation="0"
+         flood-opacity="0.06"
+         flood-color="#000000" />
+    </filter>
+  </defs>
+  <linearGradient
+     id="export-svg-gradient"
+     gradientUnits="objectBoundingBox"
+     x1="0%"
+     y1="0%"
+     x2="100%"
+     y2="0%">
+    <stop
+       offset="0%"
+       stop-color="#0042eb"
+       stop-opacity="1"
+       id="stop31" />
+    <stop
+       offset="100%"
+       stop-color="#eb0042"
+       stop-opacity="1"
+       id="stop32" />
+  </linearGradient>
+</svg>
